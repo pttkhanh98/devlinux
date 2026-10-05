@@ -9,7 +9,7 @@
 ---
 
 # Assignment — Session 04: Object-Oriented C, Memory Optimization & Code Portability
-**Deadline: 2026-10-04 23:59:00**
+**Deadline: 2026-10-4 23:59:00**
 
 ---
 

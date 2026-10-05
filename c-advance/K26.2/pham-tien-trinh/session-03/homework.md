@@ -11,7 +11,7 @@
 ---
 
 # Assignment — session-03
-**Deadline: 2026-10-04 23:59:00**
+**Deadline: 2026-09-27 23:59:00**
 
 ---
 
